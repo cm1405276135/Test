@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EnhancedScroller v2/Demos/01 Simple Demo/01.unity
+  isLoaded: 1
+  isActive: 1
